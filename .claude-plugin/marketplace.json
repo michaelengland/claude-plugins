@@ -1,5 +1,8 @@
 {
   "name": "michaelengland-plugins",
+  "owner": {
+    "name": "Michael England"
+  },
   "plugins": [
     {
       "name": "deck-flow",
