@@ -7,8 +7,7 @@
     {
       "name": "deck-flow",
       "source": { "source": "github", "repo": "michaelengland/deck-flow" },
-      "description": "Three-phase presentation workflow for PowerPoint",
-      "version": "0.1.0"
+      "description": "Three-phase presentation workflow for PowerPoint"
     }
   ]
 }
