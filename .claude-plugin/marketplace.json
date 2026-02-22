@@ -5,8 +5,8 @@
   },
   "plugins": [
     {
-      "name": "deck-flow",
-      "source": { "source": "github", "repo": "michaelengland/deck-flow" },
+      "name": "deckwright",
+      "source": { "source": "github", "repo": "michaelengland/deckwright" },
       "description": "Build and edit PowerPoint presentations with AI — phased workflow for story, structure, design, and validated slide generation"
     }
   ]
