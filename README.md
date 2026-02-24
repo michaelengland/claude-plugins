@@ -14,4 +14,4 @@ Then browse available plugins with `/plugin`.
 
 | Plugin | Description |
 |--------|-------------|
-| [deck-flow](https://github.com/michaelengland/deck-flow) | Three-phase presentation workflow for PowerPoint |
+| [deckwright](https://github.com/michaelengland/deckwright) | Presentation workflow plugin: narrative, craft, design, present, and import |
